@@ -36,8 +36,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/tv_view_holder_instance"
         style= "@style/TextAppearance.AppCompat.Title"
-        android:textAlignment="center"
-        android:layout_gravity="center_vertical"
+
+        android:layout_gravity="center_vertical|end"
         android:fontFamily="monospace"
         android:textColor="#000"
         />
